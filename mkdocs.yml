@@ -17,7 +17,6 @@ markdown_extensions:
 # Configuration
 theme:
   name: readthedocs
-  nav_style: dark
     
   features:
     - navigation.tabs
