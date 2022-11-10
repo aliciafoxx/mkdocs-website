@@ -16,8 +16,14 @@ markdown_extensions:
   
 # Configuration
 theme:
-  name: readthedocs
-    
+  name: material
+  palette:
+    primary: purple
+    accent: cyan
+  font:
+    text: Ubuntu
+  icon:
+    logo: material/cloud
   features:
     - navigation.tabs
     - navigation.sections
