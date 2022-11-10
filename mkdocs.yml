@@ -16,8 +16,8 @@ markdown_extensions:
   
 # Configuration
 theme:
-  name: material
-    custom_dir: overrides
+  name: readthedocs
+  nav_style: dark
     
   features:
     - navigation.tabs
