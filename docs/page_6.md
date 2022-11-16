@@ -7,6 +7,7 @@ I put together a non-exhaustive list of free and low-cost journals in ecology an
 
 Here is a paper [here](https://journals.asm.org/doi/full/10.1128/mSystems.01151-21) with SI on free journals in microbiome research that also provide fee waivers for scientists from low- and middle-income countries.
 
+Please email me if you'd like to provide an addition at afoxx[@]chicagobotanic.org
 
 ### Github Gist
 
