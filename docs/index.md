@@ -2,20 +2,12 @@
 
 I am a research scientist working to understand basic and applied ecology topics using experimental studies, synthesis and data science. I interrogate methods and best practices, ultimately to improve equity and inclusion issues in science and restoration practice.
 
-I conduct research on plant interactions and I work to understand how plant population variation influences interactions and species coexistence. My current work includes projects through the NSF BII New Roots For Restoration understanding interaction dynamics of native prairie plants.
-
-Research to inform restoration
-
-I’m working hard on synthesis projects and engaging in more metascience research to ask and answer how we can improve scientific outcomes starting with methods.
-
-Inclusion in science
-
-My work is moving into the intersection of ecology and data science
+I conduct research on how plant traits influence plant-plant and plant-microbe interactions, including how traits are distributed within and between plant populations. My current work aslo includes applied ecology projects that inform restoration practices in tallgrass and dryland ecosystems.
 
 ![](Foxx_headshot.jpg){: style="height:150px;width:150px"}
 
 
-My work:
+More on my work:
 
 Google scholar [profile](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
 
