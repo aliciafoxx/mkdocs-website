@@ -3,7 +3,7 @@ site_author: Alicia Foxx
 
 nav:
   - Home: index.md
-  - People: page_8.md
+  - People: people.md
   - Applied & Basic Ecology: ecology_8.md
   - Synthesis and Metascience: synthesis.md
   - Equity & Inclusion in Science: equity.md
