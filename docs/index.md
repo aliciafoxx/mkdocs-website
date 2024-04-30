@@ -1,6 +1,6 @@
-# Research
+# The Foxx Disrupting Ecology Lab
 
-I am a research scientist at the [Chicago Botanic Garden](https://www.chicagobotanic.org/) and I use syntheses, data science, and experimental studies to understand ecology and explore and equity and inclusion issues in science.
+I am a research scientist working to understand basic and applied ecology topics using experimental studies, synthesis and data science. I interrogate methods and best practices, ultimately to improve equity and inclusion issues in science and restoration practice.
 
 I conduct research on plant interactions and I work to understand how plant population variation influences interactions and species coexistence. My current work includes projects through the NSF BII New Roots For Restoration understanding interaction dynamics of native prairie plants.
 
