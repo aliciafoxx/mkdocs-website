@@ -3,12 +3,12 @@ site_author: Alicia Foxx
 
 nav:
   - Home: index.md
-  - New Roots For Restoration: page_8.md
-  - Population Ecology: page_2.md
+  - Applied Ecology: page_8.md
   - Synthesis and Metascience: page_3.md
-  - Microbiome research: page_5.md
+  - Basic Ecology: page_5.md
   - Equity & Inclusion in Science: page_7.md
-  - BIPOC Restoration Network: page_4.md
+  - BERC: page_4.md
+  - POMA: page_6.md
   - Resources: page_6.md
 
 markdown_extensions:
