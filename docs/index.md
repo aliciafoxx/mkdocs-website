@@ -7,7 +7,7 @@ I conduct research on how plant traits influence plant-plant and plant-microbe i
 ![](Foxx_headshot.jpg){: style="height:150px;width:150px"}
 
 
-More on my work:
+I'm a Conservation Scientist at the [Chicago Botanic Garden](https://www.chicagobotanic.org/research) and adjunct professor at Northwestern University in the Plant Biology and Conservation Graduate Program [(PBC)[https://plantbiology.northwestern.edu/]. Here's more on my work:
 
 Google scholar [profile](https://scholar.google.com/citations?user=nlWrL0YAAAAJ&hl=en)
 
